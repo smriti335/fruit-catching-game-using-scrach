@@ -1,1 +1,1 @@
-# fruit-catching-game-using-scrach
+# Food-catching-game-using-scrach
